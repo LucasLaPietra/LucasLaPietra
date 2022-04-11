@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lucas Ezequiel La Pietra, a Software Engineer from argentina
+- Here you can see various projects I own or have taken part on, feel free to take a look around
+- 📫 If you want to contact me, you can do it via e-mail at lelapietra@gmail.com
